@@ -1,0 +1,20 @@
+Skills:
+1. SDLC
+2. STLC
+3. JSON
+4. XML
+5. API
+6. Postman
+7. Fidler
+8. VPN
+9. Dev Tools
+10. XCode
+11. Android Studio
+12. Charles
+13. Proxy
+14. Terminal
+15. SQL
+16. Git
+17. Jmeter
+18. Scrum
+19. Python
